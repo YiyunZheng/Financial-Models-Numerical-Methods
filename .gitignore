@@ -25,3 +25,5 @@ src/FMNM/FMNM.egg-info
 src/FMNM.egg-info
 src/FMNM/cython/*.so
 src/FMNM/cython/*.c
+src/FMNM/cython/*.pyd
+.idea
